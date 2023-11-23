@@ -38,4 +38,4 @@ class MapleGG_Crawler:
 
 if __name__=="__main__":
     cc = MapleGG_Crawler()
-    print(cc.searchNickname("깜시랑"))
+    print(cc.searchNickname("닉네임"))

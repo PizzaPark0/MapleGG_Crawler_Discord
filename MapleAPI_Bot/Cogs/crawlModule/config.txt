@@ -1,0 +1,5 @@
+token : discord token here
+command_prefix : !
+api_key : maple api key here
+commandName1(NameChanger) : 이름변경
+NameChangeFormat(available-name,dojang_floor,class_name,popularity,guild,world_name,combat_power) : name/world_name/class_name/popularity

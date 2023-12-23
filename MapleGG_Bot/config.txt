@@ -1,2 +1,0 @@
-token : 토큰을여기에
-command_prefix : !

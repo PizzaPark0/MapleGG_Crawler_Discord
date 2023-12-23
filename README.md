@@ -9,7 +9,7 @@
 
 Python 실행환경 당연히 필요
 
-라이브러리 3개 필요
+라이브러리 2개 필요
 pip install requests
 pip install discord
 
